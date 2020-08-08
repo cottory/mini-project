@@ -4,25 +4,25 @@
 
 #### 각 기능 설명
 
-##### GameManager.swift
+##### 1.GameManager.swift
 
 Main에서 게임을 진행하는 Driver 클래스.    
 
 ---
 
-##### Main.swift
+##### 2.Main.swift
 
 메인 클래스(Entry Point)    
 
 ---
 
-##### BallStrikeCalculator.swift
+##### 3.BallStrikeCalculator.swift
 
 입력된 숫자에 대한 Ball 갯수, Strike 갯수를 세는 클래스
 
 ---
 
-##### ValidationChecker.swift
+##### 4.ValidationChecker.swift
 
 아래 네 가지 예외 사항을 검사하는 클래스    
 
@@ -33,26 +33,26 @@ Main에서 게임을 진행하는 Driver 클래스.
 
 ---
 
-##### NumberGenerator.swift
+##### 5.NumberGenerator.swift
 
 정답 숫자 생성하는 클래스
 
 ---
 
-##### Game.swift
+##### 6.Game.swift
 
 게임 자체를 의미하는 클래스    
 1번의 게임 == 1번의 Game 객체 생성     
 
 ---
 
-##### Logger.swift
+##### 7.Logger.swift
 
 게임 내 발생하는 콘솔 출력 담당 클래스    
 
 ---
 
-##### UserInterface.swift
+##### 8.UserInterface.swift
 
 사용자의 입력을 받는 클래스    
 
