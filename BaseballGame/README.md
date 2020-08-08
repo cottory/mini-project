@@ -1,6 +1,6 @@
 ### BaseballGame
 
-Simple Base Ball Game.
+Implemented in Swift
 
 ---
 
