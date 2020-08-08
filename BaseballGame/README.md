@@ -1,6 +1,8 @@
-#### Baseball game implemented in Swift
+### Baseball game implemented in Swift
 
 ---
+
+#### 각 기능 설명
 
 ##### GameManager.swift
 
