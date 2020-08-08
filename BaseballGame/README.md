@@ -1,4 +1,4 @@
-### Baseball game implemented in Swift
+#### Baseball game implemented in Swift
 
 ---
 
